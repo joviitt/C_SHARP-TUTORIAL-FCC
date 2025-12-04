@@ -12,6 +12,8 @@ namespace SwitchStatements
         {
             Console.Write("enter  day of the week: ");
 
+            hellp
+
 
 
         }
