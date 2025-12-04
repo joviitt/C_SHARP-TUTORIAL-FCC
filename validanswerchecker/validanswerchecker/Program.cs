@@ -20,7 +20,7 @@ namespace validanswerchecker
 
             int answer = firstnumber * secondnumber;
 
-            Console.Write("Value of"+firstnumber+"*"+secondnumber+": ");
+            Console.Write("Value of" + firstnumber + "*" + secondnumber + ": ");
             int ipanswer = Convert.ToInt32(Console.ReadLine());
 
             if (answer == ipanswer)
@@ -31,8 +31,10 @@ namespace validanswerchecker
             {
                 Console.WriteLine("your are wrong");
             }
-            }
+
 
 
         }
     }
+
+}
