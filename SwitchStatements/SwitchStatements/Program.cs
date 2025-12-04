@@ -38,7 +38,7 @@ namespace SwitchStatements
 
             }
 
-
+            Console.WriteLine("hell yeah");
 
         }
     }
